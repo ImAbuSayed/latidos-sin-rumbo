@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos sin rumbo
+
+This log tracks the cryptographic history and versioning for the song **Latidos sin rumbo** (latidos-sin-rumbo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:35:18.418325 | `v1` | `51f0638c39b456e45e1d0c693221912644555f65b50caa0279803d99d41a64e9` | `c4dbdb5dbc9f460b07f0cbceb225679f21626bce6c4ea1fd31bc1096b7c5718c` | `2026-06-19_latidos-sin-rumbo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
